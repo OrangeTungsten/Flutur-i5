@@ -1,4 +1,6 @@
 # Flutur-i5
+<img width="256" height="256" alt="Flutur Logo" src="https://github.com/user-attachments/assets/45e0d66c-028f-4446-940a-345052aa8843" />
+
 
 
 # Introduction
@@ -6,10 +8,12 @@ Flutur i5 is an open-source 3D printer project, created by an enthusiast for the
 
 This is a 3D printer featuring a Cartesian-style positioning system, driven by three two-phase stepper motors: belt-driven on the X and Y axes, and lead screw-driven on the Z axis; all guided by linear bearings on Ø12 stainless steel rods. The entire system is assembled into a rigid rectangular (box-type) aluminum frame, made of 20 x 20 mm slot profile members. The printable volume is 285 × 300 × 300 mm (X × Y × Z).
 
+
 # Bill of Materials (BOM)
 The BOM.xls file contains materials with quantities needed for this project. Names of components follow provided assembly drawings. All measures are given in milimeters. 
 
 Printable components could be FDM 3D printed with basic PLA filament, even the hotend plate. Hotend requires active cooling. Both portal plates could be made of acrylics or aluminum.
+
 
 ## 3rd Party Disclaimer
 
@@ -29,6 +33,7 @@ List of fully compatibile 3rd party components with their webistes:
 |Hotend E3D V6 type|	[link](https://e3d-online.com/products/v6-all-metal-hotend?_pos=5&_sid=d5b714545&_ss=r&variant=40923457486907)
 |Sensor BL Touch v3.1|[link](https://www.antclabs.com/bltouch)
 |Endstop Cherry DB2 Microswitch|	[link](https://platinum-international.store/platinum-international/switches/position-switches/cherry-db2-subminiature-switch/?v=3a2d7564baee)
+
 
 # Safety and Fire Hazard Disclaimer
 
