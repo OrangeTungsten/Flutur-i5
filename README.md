@@ -4,9 +4,8 @@
 
 
 # Introduction
-Flutur i5 is an open-source 3D printer project, created by an enthusiast for the wider maker community. It is designed to inspire and support fellow makers and DIY lovers. The idea behind Flutur i5 is to build a stable, reliable and flexibile 3D printer that is affordable, easy to assemble, operate and modify.
+Flutur i5 is an open-source 3D printer project, created by an enthusiast for the wider maker community. It is designed to inspire and support fellow makers and DIY lovers. The idea behind Flutur is to build a stable, reliable and flexibile 3D printer that is affordable, easy to assemble, operate and modify.
 
-Flutur, from the Latin root for flutter, embodies beauty, elegance and the freedom to evolve.
 
 This is a 3D printer featuring a Cartesian-style positioning system, driven by three two-phase stepper motors: belt-driven on the X and Y axes, and lead screw-driven on the Z axis; all guided by linear bearings on Ø12 stainless steel rods. The entire system is assembled into a rigid rectangular (box-type) aluminum frame, made of 20 x 20 mm slot profile members. The printable volume is 285 × 300 × 300 mm (X × Y × Z).
 
