@@ -13,7 +13,7 @@ This is a 3D printer featuring a Cartesian-style positioning system, driven by t
 # Bill of Materials (BOM)
 The BOM.xls file contains materials with quantities needed for this project. Names of components follow provided assembly drawings. All measures are given in milimeters. 
 
-Printable components could be FDM 3D printed with basic PLA filament, even the hotend plate. Both portal plates could be made of acrylics or aluminum. Hotend requires active cooling. Workpiece cooling is also recommended. 
+Printable components could be FDM 3D printed with basic PLA filament, even the extruder plate. Both portal plates could be made of acrylics or aluminum. Hotend requires active cooling. Workpiece cooling is also recommended. 
 
 In this version of the project, the control system consists of an _MKS Robin Nano v1.2_ control board, together with _TMC2208_ stepper drivers and a _MKS TFT35 v1.0_ display. The motion system is driven by four NEMA17 17HS8401 stepper motors. Power supply must provide at least 30 A at 12 V DC. The Flutur i5 project does not provide instructions for wiring or electrical instalation in general. The proper wiring, operation and handling of these components are defined by their respective manufacturers, and their official documentation should be followed.
 
