@@ -28,15 +28,20 @@ The printer can also be realized with other solutions, depending on the builderâ
 
 
 List of fully compatibile 3rd party components with their webistes:
-| Component | Website |
-| --- | --- |
-|Stepper Motor NEMA17 17HS8401|	[link](https://www.hanpose.com/product-17hs8401-18a--52ncm-18-degree--linear--motor-12v-electric-toys-and-appliances-for-3d-printer-nema-17-stepper-motor)
-|Controler board MKS Robin Nano v1.2|	[link](https://makerbase3d.com/product/mks-robin-nano-v1-2/)
-|Display MKS TFT35 V1.0|	[link](https://makerbase3d.com/product/mks-robin-nano-v1-2/)
-|Filament Feeder Creality MK8 style|	[link](https://www.crealityofficial.co.uk/products/full-metal-extruder-with-capricorn-tubing)
-|Hotend E3D V6 type|	[link](https://e3d-online.com/products/v6-all-metal-hotend?_pos=5&_sid=d5b714545&_ss=r&variant=40923457486907)
-|Sensor BL Touch v3.1|[link](https://www.antclabs.com/bltouch)
-|Endstop Cherry DB2 Microswitch|	[link](https://platinum-international.store/platinum-international/switches/position-switches/cherry-db2-subminiature-switch/?v=3a2d7564baee)
+
+[Stepper Motor NEMA17 17HS8401](https://www.hanpose.com/product-17hs8401-18a--52ncm-18-degree--linear--motor-12v-electric-toys-and-appliances-for-3d-printer-nema-17-stepper-motor)
+
+[Controler board MKS Robin Nano v1.2](https://makerbase3d.com/product/mks-robin-nano-v1-2/)
+
+[Display MKS TFT35 V1.0](https://makerbase3d.com/product/mks-robin-nano-v1-2/)
+
+[Filament Feeder Creality MK8 style](https://www.crealityofficial.co.uk/products/full-metal-extruder-with-capricorn-tubing)
+
+[Hotend E3D V6 type](https://e3d-online.com/products/v6-all-metal-hotend?_pos=5&_sid=d5b714545&_ss=r&variant=40923457486907)
+
+[Sensor BL Touch v3.1](https://www.antclabs.com/bltouch)
+
+[Endstop Cherry DB2 Microswitch](https://platinum-international.store/platinum-international/switches/position-switches/cherry-db2-subminiature-switch/?v=3a2d7564baee)
 
 
 # Safety and Fire Hazard Disclaimer
